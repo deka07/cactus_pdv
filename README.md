@@ -19,4 +19,4 @@ Versão de homologação v0.1
 * **Desenvolvedor** - *Full Stack* - [Ademario Cunha](https://github.com/linkParaPerfil)
 
 ## 📄 Licença
-Este projeto está sob a licença 🌵**Cactus Bits LTDA**. - veja o arquivo [LICENSE.md](xxx.xxxxx.com.br) para detalhes.
+Este projeto está sob a licença 🌵 **Cactus Bits LTDA**. - veja o arquivo [LICENSE.md](xxx.xxxxx.com.br) para detalhes.
